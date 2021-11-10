@@ -1,0 +1,11 @@
+Useful Links
+More information on flow control with Helm:
+
+https://helm.sh/docs/chart_template_guide/control_structures/
+
+
+
+Operators you can use with Helm:
+
+https://helm.sh/docs/chart_template_guide/functions_and_pipelines/#operators-are-functions
+
