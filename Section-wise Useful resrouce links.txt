@@ -1,0 +1,38 @@
+Section 2 - Useful links
+
+www.hetzner.com
+kubernetes.io
+https://projectcalico.docs.tigera.io/getting-started/kubernetes/self-managed-onprem/onpremises
+
+-----------------------------
+
+Section 4 - Useful links
+
+https://kops.sigs.k8s.io/getting_started/install/
+https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+
+--------------------------------------
+
+Section 5 - Useful links
+
+https://rancher.com/docs/rke/latest/en/installation/
+
+--------------------------------------
+
+Section 14 - Useful links
+
+https://k8slens.dev/
+
+-------------------------------------
+
+Section 15 - Useful links
+
+https://www.cisecurity.org/benchmark/kubernetes/
+
+--------------------------------------
+
+Section 17 - Useful links
+
+https://longhorn.io/
+
+------------------------------------
